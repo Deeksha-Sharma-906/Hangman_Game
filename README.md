@@ -167,6 +167,9 @@ pythonw file_name
 
 
 
+<img width="807" height="902" alt="hmg3" src="https://github.com/user-attachments/assets/60813a34-bc09-4569-878a-46583e32ab43" />
+<img width="798" height="911" alt="hmg2" src="https://github.com/user-attachments/assets/d0ab8271-5ebd-45a9-9ddc-1964795a3f69" />
+<img width="802" height="901" alt="hmg 1" src="https://github.com/user-attachments/assets/642cf843-4a39-446e-a117-82cd35490c90" />
 
 
 
