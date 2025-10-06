@@ -129,6 +129,22 @@ root.mainloop()
   
 ---
 
+## **7. How to run the code on your system**
+- Copy and paste the entire code on NotePad with `.py` (to run using cmd) or `.pyw` (to run even without cmd) extension, file type: `All Files`
+- In the Command Promt `cmd`:
+ ```cmd
+cd folder\name\where\file\is\saved
+``` 
+if saved as `.py`:
+ ```cmd
+python file_name
+```
+if saved as `.pyw`:
+ ```cmd
+pythonw file_name
+``` 
+---
+
 ## **Summary**
 - Purpose: Provides an interactive Hangman game with GUI.
 - Features:
